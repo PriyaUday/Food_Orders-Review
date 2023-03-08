@@ -1,0 +1,56 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  }
+.form{
+    justify-content: center;
+    margin: 70px;
+    border: 2px solid blueviolet;
+    height:450px;
+    width: 400px;
+    justify-content:center;
+    align-content: center;
+  }
+  table {
+
+  border: 2px solid purple;
+  width: 800px;
+  height: 200px;
+  }
+  h1{
+    color:purple;
+  }
+  th {
+  border-bottom: 1px solid black;
+  }
+  
+  td {
+  text-align: center;
+  }
+  .del{
+    background-color: red;
+    color: white;
+
+  }
+  .up{
+    background-color: blue;
+    color: white;
+
+  }
+  .add{
+    background-color: green;
+    color: white;
+
+  }
+  .box{
+    justify-content: center;
+    margin: 70px;
+    border: 2px solid blueviolet;
+    height:400px;
+    width: 400px;
+
+  }
+  
